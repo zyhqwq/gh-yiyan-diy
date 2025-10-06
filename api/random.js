@@ -45,7 +45,7 @@ module.exports = (req, res) => {
       res.setHeader('Content-Type', 'text/plain; charset=utf-8');
       
       // 构建返回的文本格式
-      let result = randomItem.hitokoto;
+      let result = randomItem.content;
       
       // 如果有作者，添加作者信息
       if (randomItem.author) {
