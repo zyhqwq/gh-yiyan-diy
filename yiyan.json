@@ -15,11 +15,6 @@
     "author": "李白"
   },
   {
-    "content": "会当凌绝顶，一览众山小。",
-    "tags": ["inspirational"],
-    "author": "杜甫"
-  },
-  {
     "content": "山重水复疑无路，柳暗花明又一村。",
     "tags": ["philosophical"],
     "author": "陆游"
@@ -320,11 +315,6 @@
     "author": "秦观"
   },
   {
-    "content": "纸上得来终觉浅，绝知此事要躬行。",
-    "tags": ["learning", "action"],
-    "author": "陆游"
-  },
-  {
     "content": "不识庐山真面目，只缘身在此山中。",
     "tags": ["philosophical", "insight"],
     "author": "苏轼"
@@ -585,11 +575,6 @@
     "author": "刘向"
   },
   {
-    "content": "路漫漫其修远兮，吾将上下而求索。",
-    "tags": ["exploration", "persistence"],
-    "author": "屈原"
-  },
-  {
     "content": "亦余心之所善兮，虽九死其犹未悔。",
     "tags": ["persistence", "integrity"],
     "author": "屈原"
@@ -598,16 +583,6 @@
     "content": "长太息以掩涕兮，哀民生之多艰。",
     "tags": ["patriotism", "compassion"],
     "author": "屈原"
-  },
-  {
-    "content": "天生我材必有用，千金散尽还复来。",
-    "tags": ["confidence", "optimism"],
-    "author": "李白"
-  },
-  {
-    "content": "人生得意须尽欢，莫使金樽空对月。",
-    "tags": ["life", "enjoyment"],
-    "author": "李白"
   },
   {
     "content": "烹羊宰牛且为乐，会须一饮三百杯。",
@@ -955,17 +930,12 @@
     "author": "网络"
   },
   {
-    "content": "海洋的呼唤无法抗拒，但我会守护你到最后。",
-    "tags": ["保护", "命运"],
-    "author": "浊心斯卡蒂"
-  },
-  {
     "content": "学习如逆水行舟，不进则退。",
     "tags": ["learning", "warning"],
     "author": "佚名"
   },
   {
-    "content": "静以修身，俭以养德",
+    "content": "静以修身，俭以养德，非淡泊无以明志，非宁静无以致远",
     "tags": ["修养", "德行"],
     "author": "诸葛亮"
   },
@@ -973,11 +943,6 @@
     "content": "月落乌啼霜满天，江枫渔火对愁眠",
     "tags": ["夜景", "愁思"],
     "author": "张继"
-  },
-  {
-    "content": "潮起潮落，皆是天命",
-    "tags": ["命运", "海洋"],
-    "author": "浊心斯卡蒂"
   },
   {
     "content": "欲穷千里目，更上一层楼",
@@ -1053,5 +1018,305 @@
     "content": "当最后的浪花消散，我们终将重逢",
     "tags": ["命运", "重逢"],
     "author": "浊心斯卡蒂"
+  },
+  {
+    "content": "落木千山天远大，澄江一道月分明。",
+    "tags": ["nature", "scenery"],
+    "author": "黄庭坚"
+  },
+  {
+    "content": "纸上谈兵终觉浅，投身实践见真章。",
+    "tags": ["action", "practice"],
+    "author": "网络"
+  },
+  {
+    "content": "我与春风皆过客，你携秋水揽星河。",
+    "tags": ["emotion", "longing"],
+    "author": "网络"
+  },
+  {
+    "content": "不要因为走得太远，而忘记为什么出发。",
+    "tags": ["self-reflection", "初心"],
+    "author": "纪伯伦"
+  },
+  {
+    "content": "绿杨烟外晓寒轻，红杏枝头春意闹。",
+    "tags": ["nature", "idyllic"],
+    "author": "宋祁"
+  },
+  {
+    "content": "深海的潮汐里，藏着未说出口的约定。",
+    "tags": ["ocean", "commitment"],
+    "author": "浊心斯卡蒂"
+  },
+  {
+    "content": "不是因为看到希望才坚持，而是坚持了才看到希望。",
+    "tags": ["inspirational", "persistence"],
+    "author": "网络"
+  },
+  {
+    "content": "云想衣裳花想容，春风拂槛露华浓。",
+    "tags": ["aesthetic", "poetry"],
+    "author": "李白"
+  },
+  {
+    "content": "博士，比起等待光明，不如我们一起成为光。",
+    "tags": ["encouragement", "partnership"],
+    "author": "水月"
+  },
+  {
+    "content": "人生忽如寄，寿无金石固。",
+    "tags": ["life", "philosophical"],
+    "author": "《古诗十九首》"
+  },
+  {
+    "content": "正义不是单方面的审判，而是对生命的敬畏。",
+    "tags": ["justice", "compassion"],
+    "author": "假日威龙陈"
+  },
+  {
+    "content": "天街小雨润如酥，草色遥看近却无。",
+    "tags": ["nature", "spring"],
+    "author": "韩愈"
+  },
+  {
+    "content": "我的利爪能撕开黑暗，却愿为你收起锋芒。",
+    "tags": ["protection", "tenderness"],
+    "author": "Mon3tr"
+  },
+  {
+    "content": "所谓成长，就是把哭声调成静音的过程。",
+    "tags": ["growth", "maturity"],
+    "author": "网络"
+  },
+  {
+    "content": "春潮带雨晚来急，野渡无人舟自横。",
+    "tags": ["nature", "serenity"],
+    "author": "韦应物"
+  },
+  {
+    "content": "海洋从不会强迫谁留下，但也从不挽留想走的人。",
+    "tags": ["ocean", "freedom"],
+    "author": "歌蕾蒂娅"
+  },
+  {
+    "content": "优于别人，并不高贵，真正的高贵是优于过去的自己。",
+    "tags": ["self-improvement", "nobility"],
+    "author": "海明威"
+  },
+  {
+    "content": "醉后不知天在水，满船清梦压星河。",
+    "tags": ["dream", "scenery"],
+    "author": "唐温如"
+  },
+  {
+    "content": "博士，每一次选择都在塑造未来，别害怕选错。",
+    "tags": ["guidance", "courage"],
+    "author": "凯尔希"
+  },
+  {
+    "content": "生活的最佳状态是冷冷清清的风风火火。",
+    "tags": ["life", "attitude"],
+    "author": "木心"
+  },
+  {
+    "content": "让合适的人恰当地处在合适的立场上，让有价值的朋友真的成为忠诚的伙伴......总比我们一开始所期望的要难。",
+    "tags": ["leadership", "interpersonal"],
+    "author": "开斯特公爵"
+  },
+  {
+    "content": "我梦见锈色的王座在大地上矗立，人们跪拜，流下黑色的眼泪；我梦见王座上的人轻挥手臂，呐喊声便刺破了整片天空。",
+    "tags": ["prophecy", "dream"],
+    "author": "阿米娅"
+  },
+  {
+    "content": "往日的山巅当真如此值得怀念？泪与血并不值得你为之着迷。",
+    "tags": ["memory", "reflection"],
+    "author": "Logos"
+  },
+  {
+    "content": "信任向来是脆弱的，一旦崩塌，想要重建便更难。我们需要的不是人们对我们的信任，我们需要他们重新建立对彼此的信任。",
+    "tags": ["trust", "society"],
+    "author": "阿米娅"
+  },
+  {
+    "content": "恐惧和怀疑会分化人们，契约、习俗与道德在极端的环境下很快就会瓦解。",
+    "tags": ["human nature", "crisis"],
+    "author": "曼弗雷德"
+  },
+  {
+    "content": "在一场战争中，某些人只会把道德视作负担。",
+    "tags": ["war", "morality"],
+    "author": "伊内丝"
+  },
+  {
+    "content": "卡兹戴尔是一片废墟，但废墟也意味着其中蕴含着无数的可能性。",
+    "tags": ["ruin", "possibility"],
+    "author": "Logos"
+  },
+  {
+    "content": "人们会因为所处的环境而错误地估计自己的能力，误以为自己的生活是自己凭努力挣来......直到崩塌的时刻来临。",
+    "tags": ["self-cognition", "reality"],
+    "author": "推进之王"
+  },
+  {
+    "content": "这座地块，这个国家里，乃至这片大地上，谁是尘埃，谁是砂纸？你又有什么资格，决定谁是尘埃，谁是砂纸？",
+    "tags": ["equality", "identity"],
+    "author": "伊内丝"
+  },
+  {
+    "content": "战争不配用任何比喻修饰。它只是泥水里挣扎的人，废墟里被炸断的胳膊，永远无法散去的臭味。",
+    "tags": ["war", "cruelty"],
+    "author": "伊内丝"
+  },
+  {
+    "content": "我看到了，我仍然选择去看，我还会继续看下去。死魂灵，我没有一刻移开目光。",
+    "tags": ["resolve", "memory"],
+    "author": "阿米娅"
+  },
+  {
+    "content": "也许从我们踏上家乡的土地那一刻起，我们回来的意义就不只是回家了......",
+    "tags": ["homeland", "mission"],
+    "author": "推进之王"
+  },
+  {
+    "content": "对于一个萨卡兹雇佣兵来说，光荣最可耻。",
+    "tags": ["honor", "mercenary"],
+    "author": "伊内丝"
+  },
+  {
+    "content": "我只相信这些无法被赋予意义的东西。玩弄意义，是一切痛苦的根源。",
+    "tags": ["meaning", "suffering"],
+    "author": "伊内丝"
+  },
+  {
+    "content": "这片大地上所有的事物都在演进，而你向来只是停留在原地，然后模仿出某个演进的结果。",
+    "tags": ["evolution", "stagnation"],
+    "author": "Logos"
+  },
+  {
+    "content": "自然界中，黄沙被看做是万物的尽头，再坚固的巨石都会在时间的终点化作齑粉。",
+    "tags": ["time", "transience"],
+    "author": "凯尔希"
+  },
+  {
+    "content": "是的，的确存在一种人，他们天生擅长掀起浪潮。但我永远都不会称他们为胜利者。",
+    "tags": ["power", "victory"],
+    "author": "塔露拉"
+  },
+  {
+    "content": "我们被抛到了这个时代当中，就只能以这个时代所教育我们的方式行动。",
+    "tags": ["era", "action"],
+    "author": "灰礼帽"
+  },
+  {
+    "content": "我承认，我对这些并没有如此兴致盎然。但倘若，只剩下山巅可供栖身，只有荣光可得温暖呢？",
+    "tags": ["glory", "choice"],
+    "author": "茉莉"
+  },
+  {
+    "content": "最佳。这个词听起来就像是那些选择能解决所有问题。并非如此，我只能确保事情不向最差的方向发展。",
+    "tags": ["choice", "limitation"],
+    "author": "凯尔希"
+  },
+  {
+    "content": "矿石病不是诅咒，也不是审判，它只是一种疾病——一种我们至今还没找到治愈方法的疾病。但这绝不代表患者就该被抛弃。",
+    "tags": ["矿石病", "compassion"],
+    "author": "华法琳"
+  },
+  {
+    "content": "刀光闪过的瞬间，我只需要想两件事：保护身后的人，以及让眼前的敌人再也站不起来。这就够了。",
+    "tags": ["combat", "protection"],
+    "author": "陈"
+  },
+  {
+    "content": "别总盯着过去的遗憾发呆啦，博士。你看，今天的阳光这么好，适合给我的植物浇浇水，也适合规划下一次的行动路线呀。",
+    "tags": ["optimism", "daily"],
+    "author": "安洁莉娜"
+  },
+  {
+    "content": "我曾以为力量是用来摧毁敌人的，但在罗德岛待久了才明白，真正的力量，是能守住想守护的人，能撑起一片让大家安心的角落。",
+    "tags": ["strength", "guardianship"],
+    "author": "煌"
+  },
+  {
+    "content": "每一份情报都藏着线索，就像每一片落叶都连着树枝。只要耐心梳理，再复杂的谜团也会露出缝隙。",
+    "tags": ["intelligence", "patience"],
+    "author": "杰西卡"
+  },
+  {
+    "content": "博士，你要是累了就说哦。我的源石技艺虽然不能直接战斗，但让你好好睡上一觉，还是没问题的。",
+    "tags": ["care", "support"],
+    "author": "格劳克斯"
+  },
+  {
+    "content": "所谓“规矩”，不该是束缚善良的锁链，而该是挡住恶意的盾牌。如果规矩做不到这点，那我就亲手改了它。",
+    "tags": ["rules", "justice"],
+    "author": "诗怀雅"
+  },
+  {
+    "content": "我记录下每一次战斗的细节，不是为了炫耀战绩，而是为了下次能更精准地保护同伴——少一个人受伤，就是最大的胜利。",
+    "tags": ["record", "teamwork"],
+    "author": "缠丸"
+  },
+  {
+    "content": "雪地里的脚印会被新雪覆盖，但一起走过的路不会忘。博士，下次如果去雪山执行任务，记得叫上我，我帮你辨方向。",
+    "tags": ["memory", "assistance"],
+    "author": "崖心"
+  },
+  {
+    "content": "别觉得“弱小”就没用哦。我能听到别人听不到的声音，能发现藏在暗处的危险——这些，也是能帮到大家的力量呀。",
+    "tags": ["self-worth", "perception"],
+    "author": "梓兰"
+  },
+  {
+    "content": "我研究源石，是想弄清楚它到底为什么会伤害人，而不是把它当成武器。如果能用知识治好矿石病，那才是真正的“突破”。",
+    "tags": ["research", "healing"],
+    "author": "白面鸮"
+  },
+  {
+    "content": "博士，今天的训练我完成啦！虽然还是会摔跤，但比昨天多坚持了十分钟呢！下次，我一定能跟上大家的步伐！",
+    "tags": ["perseverance", "growth"],
+    "author": "泡普卡"
+  },
+  {
+    "content": "在沙漠里，水是生命，信任是路标。我愿意把后背交给罗德岛的同伴，就像相信沙漠里总会有绿洲一样。",
+    "tags": ["trust", "desert"],
+    "author": "慑砂"
+  },
+  {
+    "content": "我织的布能挡风，能遮雨，也能裹住伤口。博士，如果哪天你需要，我可以给你织一块最结实的方巾，带着它就像带着我的祝福。",
+    "tags": ["craft", "blessing"],
+    "author": "夜刀"
+  },
+  {
+    "content": "战斗不是为了证明自己多强，而是为了让那些想安稳生活的人，能继续安稳下去。这是我从师傅那里学到的最重要的事。",
+    "tags": ["combat purpose", "inheritance"],
+    "author": "炎熔"
+  },
+  {
+    "content": "我收集的每一片标本，都藏着大自然的秘密。也许有一天，这些看似不起眼的植物，能帮我们找到治愈矿石病的线索呢？",
+    "tags": ["botany", "hope"],
+    "author": "嘉维尔"
+  },
+  {
+    "content": "别害怕黑暗，博士。我的源石技艺能点亮微光，哪怕只是一小片，也能帮我们看清前方的路，也能让同伴知道我们在这里。",
+    "tags": ["light", "courage"],
+    "author": "流星"
+  },
+  {
+    "content": "我曾以为“孤独”是战士的宿命，但罗德岛让我明白，战士也可以有同伴——有一起战斗、一起分担的人，比独自强大更温暖。",
+    "tags": ["loneliness", "companionship"],
+    "author": "霜叶"
+  },
+  {
+    "content": "博士，你要是觉得文件太多处理不过来，我可以帮你整理哦！我记得住每一份文件的位置，就像记得住每一种药草的功效一样。",
+    "tags": ["help", "diligence"],
+    "author": "芙蓉"
+  },
+  {
+    "content": "力量越大，责任就越重？不对哦，博士。应该是“想守护的人越多，就越想变得更强”——这才是力量真正的意义呀。",
+    "tags": ["strength meaning", "aspiration"],
+    "author": "雷蛇"
   }
 ]
